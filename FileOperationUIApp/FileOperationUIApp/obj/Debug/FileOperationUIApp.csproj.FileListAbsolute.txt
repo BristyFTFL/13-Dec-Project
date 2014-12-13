@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2013\Projects\FileOperationUIApp\FileOperationUIApp\bin\Debug\FileOperationUIApp.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\FileOperationUIApp\FileOperationUIApp\bin\Debug\FileOperationUIApp.exe
+c:\users\asus\documents\visual studio 2013\Projects\FileOperationUIApp\FileOperationUIApp\bin\Debug\FileOperationUIApp.pdb
+c:\users\asus\documents\visual studio 2013\Projects\FileOperationUIApp\FileOperationUIApp\obj\Debug\FileOperationUIApp.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\FileOperationUIApp\FileOperationUIApp\obj\Debug\FileOperationUIApp.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\FileOperationUIApp\FileOperationUIApp\obj\Debug\FileOperationUIApp.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\FileOperationUIApp\FileOperationUIApp\obj\Debug\FileOperationUIApp.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\FileOperationUIApp\FileOperationUIApp\obj\Debug\FileOperationUIApp.exe
+c:\users\asus\documents\visual studio 2013\Projects\FileOperationUIApp\FileOperationUIApp\obj\Debug\FileOperationUIApp.pdb
